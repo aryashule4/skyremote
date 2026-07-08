@@ -1,0 +1,6 @@
+{
+  "name": "SkyRemote",
+  "description": "A remote desktop dashboard with a sky blue and white aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
